@@ -39,3 +39,4 @@
 echo "Hello World" > test.txt     # создать/перезаписать файл
 echo "New line" >> test.txt       # добавить строку в файл
 cat file.txt | grep "password"    # поиск слова в файле
+```
